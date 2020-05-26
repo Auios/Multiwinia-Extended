@@ -1,6 +1,6 @@
 # Multiwinia-Extended
 
 ## Credits
-* @Auios - Various maps, unlocked game settings
-* diiPY - Various maps
-* Dark TIE - spanish and galacian language files
+* [Auios](https://www.github.com/auios) - Various maps, unlocked game settings
+* diiPY#4202 - Various maps
+* Dark TIE#0670 - spanish and galacian language files
