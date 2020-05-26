@@ -2,9 +2,8 @@
 ## About
 ### Discord
 Join our discord server!<br>
-[![](https://img.shields.io/discord/150682863543517184.svg)](http://www.discord.me/multiwinia)<br>
-[http://www.discord.me/multiwinia](http://www.discord.me/multiwinia)
-
+[http://www.discord.me/multiwinia](http://www.discord.me/multiwinia)<br>
+[![](https://img.shields.io/discord/150682863543517184.svg)](http://www.discord.me/multiwinia)
 ### Description
 This community package for [Multiwinia](https://store.steampowered.com/app/1530/Multiwinia/) includes a bundle of custom and modded maps, better language files, and unlocked game settings.
 ## Installation Guide
