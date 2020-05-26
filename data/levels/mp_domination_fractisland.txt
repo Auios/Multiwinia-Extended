@@ -1,0 +1,122 @@
+MultiwiniaOptions_StartDefinition
+	GameTypes	Domination 
+	PopulationCap	4000
+	DefenderPopulationCap	-1
+        InvalidCrates   slowdown speedup armour
+        LevelOptions    noradarcontrol
+	NumPlayers	4
+	Difficulty	advanced
+	CoopMode
+	CoopGroup1Positions	0 2 
+	CoopGroup2Positions	1 3 
+	OfficialLevel
+MultiwiniaOptions_EndDefinition
+
+Landscape_StartDefinition
+	worldSizeX 2551
+	worldSizeZ 2551
+	cellSize 12.00
+	outsideHeight -10.00
+	landColourFile landscape_default.bmp
+	wavesColourFile waves_default.bmp
+	waterColourFile water_default.bmp
+Landscape_EndDefinition
+
+LandscapeTiles_StartDefinition
+	#                            frac  height desired gen         lowland
+	# x       y       z    size   dim  scale  height  method seed smooth  guideGrid
+	# =============================================================================
+	   119   0.00   1161   1274  1.20   1.00     70      1 222972   1.00     0
+	  1039   0.00    978   1274  1.20   1.00     50      1 235956   1.00     0
+	  1021   0.00    890    636  1.20   1.00    150      1 755350   1.00     0
+	  1153   0.00    171   1274  1.20   1.00     50      1 344006   1.00     0
+	  1392   0.00    369    636  1.20   1.00    125      1 424970   1.00     0
+	   613   0.00    681    890  1.20   1.00     50      1 518969   1.00     0
+	   495   0.00   1461    636  1.20   1.00    115      1 592577   1.00     0
+	  1224   0.00    889    764  1.20   1.00     60      1 699684   1.00     0
+	   232   0.00    190    890  1.20   1.00     50      1 940380   1.00     0
+	  1469   0.00   1633    890  1.20   1.00     50      1 1004562   1.00     0
+	    74   0.00    206    636  1.20   1.00     50      1 1078978   1.00     0
+	  1855   0.00   1551    636  1.20   1.00     50      1 1135961   1.00     0
+	  1333   0.00   1571    500  1.20   1.00     25      1 2450626   1.00     0
+	  1071   0.00   1479    500  1.20   1.00     25      1 2450626   1.00     0
+LandscapeTiles_EndDefinition
+
+LandFlattenAreas_StartDefinition
+	# x      y       z      size
+	# ==========================
+	1468.4    7.0  471.7   65.0
+	1755.9   22.0 1511.6   60.0
+LandFlattenAreas_EndDefinition
+
+Lights_StartDefinition
+	# x      y      z        r      g      b
+	# =========================================
+	 -0.58   0.72   0.39     1.90   1.00   0.30
+	  0.97   0.20   0.15     1.90   0.80   0.50
+Lights_EndDefinition
+
+Buildings_StartDefinition
+	# Type              id      x       z       tm      rx      rz      isGlobal
+	# ==========================================================================
+	SpawnPoint          0       417.65  966.04  2       0.73    -0.68   0       
+	SpawnPoint          1       734.17  627.37  1       0.62    0.78    0       
+	SpawnPoint          2       755.56  1267.90 3       0.85    0.52    0       
+	SpawnPoint          3       259.55  1431.49 2       0.70    0.72    0       
+	SpawnPoint          4       241.40  1956.70 3       1.00    0.00    0       
+	SpawnPoint          5       444.87  2285.78 0       -0.50   -0.86   0       
+	SpawnPoint          6       1265.39 1826.56 1       0.66    -0.75   0       
+	SpawnPoint          7       1699.25 943.62  2       0.54    0.84    0       
+	SpawnPoint          8       2224.71 1276.60 1       -0.67   -0.75   0       
+	SpawnPoint          9       1886.87 1861.05 3       -0.97   0.24    0       
+	SpawnPoint          10      1232.00 2260.16 2       0.41    -0.91   0       
+	SpawnPoint          11      1119.12 824.61  0       -0.67   0.75    0       
+	SpawnPoint          12      1759.58 1506.25 0       -0.77   -0.64   0       
+	SpawnPoint          13      2246.39 438.57  0       -0.88   0.47    0       
+	SpawnPoint          14      1466.36 465.06  1       0.58    -0.81   0       
+	SpawnPoint          15      2279.99 827.59  3       -1.00   0.04    0       
+	SpawnPointMaster    16      208.11  222.73  255     1.00    0.00    1       17    
+	SpawnLink           17      339.00  415.70  255     1.00    0.00    0       18    
+	SpawnLink           18      574.08  743.47  255     1.00    0.00    0       1     0     20    19    
+	SpawnLink           19      492.52  1454.47 255     1.00    0.00    0       2     3     23    24    
+	SpawnLink           20      1263.39 613.94  255     1.00    0.00    0       11    14    21    
+	SpawnLink           21      1862.98 683.48  255     1.00    0.00    0       13    15    7     22    
+	SpawnLink           22      1874.35 1568.03 255     1.00    0.00    0       12    8     9     
+	SpawnLink           23      188.67  2241.94 255     1.00    0.00    0       4     5     
+	SpawnLink           24      1128.03 1942.83 255     1.00    0.00    0       6     10    
+	Wall                26      1167.34 1831.42 255     1.00    0.00    0       
+	Wall                25      1167.27 1872.09 255     1.00    0.00    0       
+	Wall                27      1167.25 1790.80 255     1.00    0.00    0       
+	Wall                28      1181.13 1755.89 255     0.73    0.68    0       
+	AITarget            29      298.33  1953.61 255     1.00    0.00    0       
+	AITarget            30      413.89  2241.71 255     1.00    0.00    0       
+	AITarget            31      305.39  1470.62 255     1.00    0.00    0       
+	AITarget            32      601.98  1543.84 255     1.00    0.00    0       
+	AITarget            33      881.16  1499.84 255     1.00    0.00    0       
+	AITarget            34      806.73  1298.33 1       1.00    0.00    0       
+	AITarget            35      1202.09 1608.23 255     1.00    0.00    0       
+	AITarget            36      885.55  1950.91 255     1.00    0.00    0       
+	AITarget            37      588.78  2052.87 255     1.00    0.00    0       
+	AITarget            38      993.87  1173.90 255     1.00    0.00    0       
+	AITarget            39      1081.95 876.47  255     1.00    0.00    0       
+	AITarget            40      775.12  672.43  255     1.00    0.00    0       
+	AITarget            41      460.58  925.36  255     1.00    0.00    0       
+	AITarget            42      843.46  987.13  255     1.00    0.00    0       
+	AITarget            43      1291.43 1106.76 255     1.00    0.00    0       
+	AITarget            44      1582.53 1332.47 1       1.00    0.00    0       
+	AITarget            45      1711.67 1474.32 1       1.00    0.00    0       
+	AITarget            46      1305.34 1786.92 1       1.00    0.00    0       
+	AITarget            47      1597.15 1936.39 1       1.00    0.00    0       
+	AITarget            48      1831.20 1887.93 1       1.00    0.00    0       
+	AITarget            49      1263.85 2203.49 1       1.00    0.00    0       
+	AITarget            50      1733.64 994.60  1       1.00    0.00    0       
+	AITarget            51      2012.13 1117.52 1       1.00    0.00    0       
+	AITarget            52      2180.68 1240.29 1       1.00    0.00    0       
+	AITarget            53      2222.27 836.40  1       1.00    0.00    0       
+	AITarget            54      2199.17 471.88  1       1.00    0.00    0       
+	AITarget            55      2041.96 581.56  1       1.00    0.00    0       
+	AITarget            56      2027.41 814.51  1       1.00    0.00    0       
+	AITarget            57      1969.02 347.87  1       1.00    0.00    0       
+	AITarget            58      1502.80 421.30  1       1.00    0.00    0       
+Buildings_EndDefinition
+
