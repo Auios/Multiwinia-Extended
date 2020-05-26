@@ -11,6 +11,6 @@ Copy the entire 'data' directory to the location shown in the image
 ### Linux
 ???
 ## Credits
-* [Auios](https://www.github.com/auios) - Various maps, unlocked game settings
+* [Auios#2714](https://www.github.com/auios) - Various maps, unlocked game settings
 * diiPY#4202 - Various maps
 * Dark TIE#0670 - spanish and galacian language files
