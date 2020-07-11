@@ -10,7 +10,7 @@ This community package for [Multiwinia](https://store.steampowered.com/app/1530/
 ### Windows
 Copy the entire `data` directory to the same directory that has `multiwinia.exe`<br>
 If you're using steam it will probably be located at `C:\Program Files (x86)\Steam\steamapps\common\Multiwinia`
-![](https://media.discordapp.net/attachments/171384373264777217/714844961207484426/Screenshot_6.png)
+![](https://cdn.discordapp.com/attachments/150682863543517184/731550339974561802/unknown.png)
 ### Mac
 Copy the entire `data` directory to the location shown in the image
 ![](https://cdn.discordapp.com/attachments/150682863543517184/353434472416280587/Screen_Shot_2017-09-02_at_5.02.01_PM.png)
