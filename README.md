@@ -9,7 +9,7 @@ This community package for [Multiwinia](https://store.steampowered.com/app/1530/
 ## Installation Guide
 ### Windows
 Copy the entire `data` directory to the same directory that has `multiwinia.exe`<br>
-If you're using steam it will probably be located at `C:\Program Files (x86)\Steam\steamapps\common\Multiwinia`
+If you're using Steam it will probably be located at `C:\Program Files (x86)\Steam\steamapps\common\Multiwinia`
 ![](https://cdn.discordapp.com/attachments/150682863543517184/731550339974561802/unknown.png)
 ### Mac
 Copy the entire `data` directory to the location shown in the image
@@ -21,4 +21,4 @@ Copy the entire `data` directory to the location shown in the image
 * diiPY#4202 - Various maps
 * Dark TIE#0670 - spanish and galacian language files
 
-If you contributed content to this package and are not in the creidts then contact me on Discord and let me know.
+If you contributed content to this package and are not in the credits then contact me on Discord and let me know.
