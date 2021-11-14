@@ -2922,6 +2922,12 @@ mp_domination_Genocide_name         Genocide Achievement Farm
 mp_domination_Genocide_description  A map where you can get easily the Genocide Achievement Author: diiPY
 mp_domination_fractisland_name           Shattered Island
 mp_domination_fractisland_description    Author: Auios - An island with fractured geopolitical starting conditions
+mp_domination_happyland_4P_name                    Happyland
+mp_domination_happyland_4P_description             A 4 player domination with jump-pads. My first time using jump-pads and I like the results. Will try to use them more often in next levels. No armour, slowdown, speedup, dark forest (non-auto). Made by Zyix (a.k.a. Cody)
+mp_domination_attackonevil_4P_name                 Attack on Evil
+mp_domination_attackonevil_4P_description          A 4 player domination + pre-game Evilinians. Tried to somehow use shields, this is what came out. No armour, meteor, reinforcements, slowdown, speedup. Use "normal" difficulty for bots. Basic crates recommended, but not necessary. Not for co-op. Made by Zyix (a.k.a. Cody)
+mp_domination_symbolicisland_4P_name               Symbolic Island
+mp_domination_symbolicisland_4P_description        A 4 player domination + pre-game Evilinians and Futurewinians. One of my personal favourite maps I've made. It is hard though. Be warned: when playing co-op, Evilinians and Futurewinians join forces! No armour, meteor, slowdown, speedup. Made by Zyix (a.k.a. Cody)
 
 mp_tankbattle_2P_name               2P TankBattle Arena
 mp_tankbattle_2P_description        Tank Duel! FIGHT!
@@ -3090,7 +3096,7 @@ multiwinia_credits_22			   John Knottenbelt
 multiwinia_credits_23			   Gary Chambers
 multiwinia_credits_24			   Leander Hambley
 multiwinia_credits_25			   Byron Atkinson-Jones
-multiwinia_credits_26			   François Gagné
+multiwinia_credits_26			   FranÃ§ois GagnÃ©
 multiwinia_credits_27			   \n
 multiwinia_credits_28			   -SOUND DESIGN AND PRODUCTION
 multiwinia_credits_29			   \n
