@@ -2933,7 +2933,6 @@ mp_domination_blastedeye_4P_description            A 4 player domination. Aaaand
 mp_domination_gildergoldvalley_4P_name             Gildergold Valley
 mp_domination_gildergoldvalley_4P_description      A 4 player domination. My attempt at making something creative, along with jump-pads of course. No armour, dark forest (non-auto), rocketwinians, slowdown, speedup. Made by Zyix (a.k.a. Cody)
 
-
 mp_tankbattle_2P_name               2P TankBattle Arena
 mp_tankbattle_2P_description        Tank Duel! FIGHT!
 mp_tankbattle_3P_name               3P TankBattle Arena
