@@ -2928,6 +2928,10 @@ mp_domination_attackonevil_4P_name                 Attack on Evil
 mp_domination_attackonevil_4P_description          A 4 player domination + pre-game Evilinians. Tried to somehow use shields, this is what came out. No armour, meteor, reinforcements, slowdown, speedup. Use "normal" difficulty for bots. Basic crates recommended, but not necessary. Not for co-op. Made by Zyix (a.k.a. Cody)
 mp_domination_symbolicisland_4P_name               Symbolic Island
 mp_domination_symbolicisland_4P_description        A 4 player domination + pre-game Evilinians and Futurewinians. One of my personal favourite maps I've made. It is hard though. Be warned: when playing co-op, Evilinians and Futurewinians join forces! No armour, meteor, slowdown, speedup. Made by Zyix (a.k.a. Cody)
+mp_domination_blastedeye_4P_name                   Blasted Eye
+mp_domination_blastedeye_4P_description            A 4 player domination. Aaaand another map where I disabled armour. Never liked that powerup because it's kind of "cheesy" for me. No armour, slowdown, speedup. Made by Zyix (a.k.a. Cody)
+mp_domination_gildergoldvalley_4P_name             Gildergold Valley
+mp_domination_gildergoldvalley_4P_description      A 4 player domination. My attempt at making something creative, along with jump-pads of course. No armour, dark forest (non-auto), rocketwinians, slowdown, speedup. Made by Zyix (a.k.a. Cody)
 
 mp_tankbattle_2P_name               2P TankBattle Arena
 mp_tankbattle_2P_description        Tank Duel! FIGHT!

@@ -1,0 +1,272 @@
+MultiwiniaOptions_StartDefinition
+	GameTypes	Domination 
+	PopulationCap	5000
+	NumPlayers	4
+	InvalidCrates   slowdown speedup armour darkforest rocketwinians
+	Difficulty	advanced
+	CoopMode
+	CoopGroup1Positions	0 3
+	CoopGroup2Positions	1 2
+	OfficialLevel
+MultiwiniaOptions_EndDefinition
+
+Landscape_StartDefinition
+	worldSizeX 3000
+	worldSizeZ 3000
+	cellSize 12.00
+	outsideHeight -10.00
+	landColourFile landscape_stronghold.bmp
+	wavesColourFile waves_default.bmp
+	waterColourFile water_default.bmp
+Landscape_EndDefinition
+
+LandscapeTiles_StartDefinition
+	#                            frac  height desired gen         lowland
+	# x       y       z    size   dim  scale  height  method seed smooth  guideGrid
+	# =============================================================================
+	  1900   0.00   1500    400  1.20   1.00    250      2      0   3.00     3   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	  1900   0.00   1900    400  1.20   1.00    250      2      2   3.00     2   AAAAAAAAAAAAAAAAAA
+	  1900   0.00   1100    400  1.20   1.00    250      2      1   3.00     3   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	  1850   0.00    700    400  1.20   1.00    250      2    285   3.00     2   AAAAAAAAAAAAAAAAAA
+	  1875   0.00    900    400  1.20   1.00    250      2     93   3.00     2   AAAAAAAAAAAAAAAAAA
+	  1900   0.00   1300    400  1.20   1.00    250      2     35   3.00     2   AAAAAAAAAAAAAAAAAA
+	  1900   0.00   1700    400  1.20   1.00    250      2      8   3.00     2   AAAAAAAAAAAAAAAAAA
+	  2100   0.00   1900    400  1.20   1.00    250      2     77   3.00     2   AAAAAAAAAAAAAAAAAA
+	  2300   0.00   1900    400  1.20   1.00    250      2     22   3.00     2   AAAAAAAAAAAAAAAAAA
+	  1900   0.00   1700    400  1.20   1.00    250      2     58   3.00     2   AAAAAAAAAAAAAAAAAA
+	  1900   0.00    700    400  1.20   1.00    250      2    406   3.00     2   AAAAAAAAAAAAAAAAAA
+	  2500   0.00   1900    400  1.20   1.00    250      2     22   3.00     2   AAAAAAAAAAAAAAAAAA
+	  2100   0.00    700    400  1.20   1.00    250      2     90   3.00     2   AAAAAAAAAAAAAAAAAA
+	  2300   0.00    700    400  1.20   1.00    250      2     90   3.00     2   AAAAAAAAAAAAAAAAAA
+	  2500   0.00    700    400  1.20   1.00    250      2    131   3.00     2   AAAAAAAAAAAAAAAAAA
+	   700   0.00   1500    400  1.20   1.00    250      2      0   3.00     3   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	   700   0.00   1900    400  1.20   1.00    250      2      4   3.00     2   AAAAAAAAAAAAAAAAAA
+	   700   0.00   1100    400  1.20   1.00    250      2      1   3.00     3   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	   700   0.00    700    400  1.20   1.00    250      2    285   3.00     2   AAAAAAAAAAAAAAAAAA
+	   700   0.00    900    400  1.20   1.00    250      2     93   3.00     2   AAAAAAAAAAAAAAAAAA
+	   700   0.00   1300    400  1.20   1.00    250      2     35   3.00     2   AAAAAAAAAAAAAAAAAA
+	   700   0.00   1700    400  1.20   1.00    250      2      8   3.00     2   AAAAAAAAAAAAAAAAAA
+	   500   0.00   1900    400  1.20   1.00    250      2     77   3.00     2   AAAAAAAAAAAAAAAAAA
+	   300   0.00   1900    400  1.20   1.00    250      2     22   3.00     2   AAAAAAAAAAAAAAAAAA
+	   700   0.00   1700    400  1.20   1.00    250      2     58   3.00     2   AAAAAAAAAAAAAAAAAA
+	   500   0.00    700    400  1.20   1.00    250      2    406   3.00     2   AAAAAAAAAAAAAAAAAA
+	   100   0.00   1900    400  1.20   1.00    250      2     22   3.00     2   AAAAAAAAAAAAAAAAAA
+	   300   0.00    700    400  1.20   1.00    250      2     90   3.00     2   AAAAAAAAAAAAAAAAAA
+	   100   0.00    700    400  1.20   1.00    250      2    129   3.00     2   AAAAAAAAAAAAAAAAAA
+	   550   0.00    700    400  1.20   1.00    250      2    155   3.00     2   AAAAAAAAAAAAAAAAAA
+	  2150   0.00   1350    300  1.20   1.00    250      2    107   3.00     2   AAAAAAAAAAAAAAAAAA
+	  2300   0.00   1350    300  1.20   1.00    250      2    113   3.00     2   AAAAAAAAAAAAAAAAAA
+	  2450   0.00   1350    300  1.20   1.00    250      2    107   3.00     2   AAAAAAAAAAAAAAAAAA
+	  2600   0.00   1350    300  1.20   1.00    250      2    117   3.00     2   AAAAAAAAAAAAAAAAAA
+	   100   0.00   1350    300  1.20   1.00    250      2    107   3.00     2   AAAAAAAAAAAAAAAAAA
+	   250   0.00   1350    300  1.20   1.00    250      2    113   3.00     2   AAAAAAAAAAAAAAAAAA
+	   400   0.00   1350    300  1.20   1.00    250      2    107   3.00     2   AAAAAAAAAAAAAAAAAA
+	   550   0.00   1350    300  1.20   1.00    250      2    117   3.00     2   AAAAAAAAAAAAAAAAAA
+	  1200   7.00   1200    600  1.20   1.00     40      0      2   1.00     0
+	  1200   7.00    900    600  1.20   1.00     40      0     20   1.00     0
+	  1200   7.00    600    600  1.20   1.00     40      0      2   1.00     0
+	  1200   7.00    300    600  1.20   1.00     40      0      3   1.00     0
+	  1200   7.00     15    600  1.20   1.00     40      0      4   1.00     0
+	   900   7.00     15    600  1.20   1.00     40      0      5   1.00     0
+	   600   7.00     15    600  1.20   1.00     40      0      6   1.00     0
+	   300   7.00     15    600  1.20   1.00     40      0      7   1.00     0
+	     9   7.00     15    600  1.20   1.00     40      0      8   1.00     0
+	  1500   7.00     15    600  1.20   1.00     40      0      9   1.00     0
+	  1800   7.00     15    600  1.20   1.00     40      0     10   1.00     0
+	  2100   7.00     15    600  1.20   1.00     40      0     11   1.00     0
+	  2400   7.00     14    600  1.20   1.00     40      0     12   1.00     0
+	  1200   7.00   1500    600  1.20   1.00     40      0     13   1.00     0
+	  1200   7.00   1800    600  1.20   1.00     40      0     14   1.00     0
+	  1200   7.00   2100    600  1.20   1.00     40      0     15   1.00     0
+	  1200   7.00   2400    600  1.20   1.00     40      0     16   1.00     0
+	  1500   7.00   2400    600  1.20   1.00     40      0     17   1.00     0
+	  1800   7.00   2400    600  1.20   1.00     40      0     18   1.00     0
+	  2100   7.00   2400    600  1.20   1.00     40      0     19   1.00     0
+	  2400   7.00   2400    600  1.20   1.00     40      0     20   1.00     0
+	   900   7.00   2400    600  1.20   1.00     40      0     21   1.00     0
+	   600   7.00   2400    600  1.20   1.00     40      0     22   1.00     0
+	   300   7.00   2400    600  1.20   1.00     40      0     23   1.00     0
+	     9   7.00   2400    600  1.20   1.00     40      0     24   1.00     0
+LandscapeTiles_EndDefinition
+
+LandFlattenAreas_StartDefinition
+	# x      y       z      size
+	# ==========================
+LandFlattenAreas_EndDefinition
+
+Lights_StartDefinition
+	# x      y      z        r      g      b
+	# =========================================
+	  0.13   0.64  -0.76     0.33   0.33   0.33
+	  0.12   0.16   0.98     5.00   3.15   1.23
+Lights_EndDefinition
+
+Buildings_StartDefinition
+	# Type              id      x       z       tm      rx      rz      isGlobal
+	# ==========================================================================
+	JumpPad             94      2741.62 2098.99 1       0.37    0.93    0       63.00 0.6
+	JumpPad             95      2715.73 895.11  1       0.46    -0.89   0       63.00 0.6
+	JumpPad             96      336.67  2097.30 1       -0.51   0.86    0       63.00 0.6
+	JumpPad             97      314.28  906.63  1       -0.42   -0.91   0       63.00 0.6
+	JumpPad             98      1322.20 1494.85 1       -1.00   -0.00   0       144.50 1
+	JumpPad             99      1665.20 1491.61 1       1.00    0.00    0       148.00 1
+	SpawnPoint          0       2121.71 2143.87 0       0.66    -0.75   0       
+	SpawnPoint          1       2244.08 2002.43 0       -0.67   0.75    0       
+	SpawnPoint          2       2191.00 982.20  1       -0.74   -0.68   0       
+	SpawnPoint          3       2095.73 812.04  1       0.58    0.81    0       
+	SpawnPoint          4       960.03  2134.66 2       -0.59   -0.81   0       
+	SpawnPoint          5       835.53  2009.88 2       0.62    0.78    0       
+	SpawnPoint          6       949.33  784.77  3       -0.77   0.64    0       
+	SpawnPoint          7       826.61  973.59  3       0.66    -0.75   0       
+	SpawnPoint          8       312.67  285.19  255     1.00    0.00    0       
+	SpawnPoint          9       1532.95 132.17  255     -0.77   0.64    0       
+	SpawnPoint          10      2722.88 308.44  255     -1.00   0.01    0       
+	SpawnPoint          11      1414.05 131.73  255     0.58    0.81    0       
+	SpawnPoint          12      341.45  2694.97 255     1.00    0.00    0       
+	SpawnPoint          13      2732.14 2732.52 255     -1.00    0.00   0       
+	SpawnPoint          14      1431.02 2878.48 255     0.71    -0.70   0       
+	SpawnPoint          15      1566.55 2876.07 255     -0.67   -0.75   0       
+	SpawnPoint          16      1300.64 1065.59 255     1.00    -0.00   0       
+	SpawnPoint          17      1296.44 1924.14 255     1.00    0.05    0       
+	SpawnPoint          18      1691.90 1913.71 255     -1.00   -0.04   0       
+	SpawnPoint          19      1698.10 1066.04 255     -1.00   -0.04   0       
+	SpawnPointMaster    20      2453.24 1749.64 1       1.00    0.00    0       60    59    58    57    56    65    64    63    62    61    
+	StaticShape         22      1823.91 877.90  1       0.54    -0.84   0         1.00  rockhead.shp  
+	StaticShape         23      1839.36 995.40  1       0.54    -0.84   0         1.00  rockhead.shp  
+	StaticShape         24      1823.62 1121.54 1       0.54    -0.84   0         1.00  rockhead.shp  
+	StaticShape         25      1841.66 1249.47 1       0.80    -0.61   0         1.00  rockhead.shp  
+	StaticShape         26      1815.52 1350.67 1       0.88    -0.48   0         1.00  rockhead.shp  
+	StaticShape         27      1813.98 1462.29 1       0.95    -0.30   0         1.00  rockhead.shp  
+	StaticShape         28      1844.50 1552.92 1       1.00    0.10    0         1.00  rockhead.shp  
+	StaticShape         29      1811.43 1646.66 1       0.95    0.30    0         1.00  rockhead.shp  
+	StaticShape         30      1843.94 1741.38 1       0.88    0.48    0         1.00  rockhead.shp  
+	StaticShape         31      1815.53 1851.55 1       0.76    0.64    0         1.00  rockhead.shp  
+	StaticShape         32      1848.95 1964.09 1       0.73    0.68    0         1.00  rockhead.shp  
+	StaticShape         33      1812.37 2083.08 1       0.58    0.81    0         1.00  rockhead.shp  
+	StaticShape         34      1146.49 875.72  1       -0.55   -0.84   0         1.00  rockhead.shp  
+	StaticShape         35      1159.38 995.95  1       -0.55   -0.84   0         1.00  rockhead.shp  
+	StaticShape         36      1181.66 1110.21 1       -0.63   -0.78   0         1.00  rockhead.shp  
+	StaticShape         37      1145.44 1217.43 1       -0.80   -0.60   0         1.00  rockhead.shp  
+	StaticShape         38      1178.96 1318.55 1       -0.80   -0.60   0         1.00  rockhead.shp  
+	StaticShape         39      1160.65 1424.06 1       -0.97   -0.24   0         1.00  rockhead.shp  
+	StaticShape         40      1151.05 1542.93 1       -0.99   0.14    0         1.00  rockhead.shp  
+	StaticShape         41      1156.37 1645.57 1       -0.92   0.38    0         1.00  rockhead.shp  
+	StaticShape         42      1175.57 1750.65 1       -0.80   0.60    0         1.00  rockhead.shp  
+	StaticShape         43      1159.45 1862.45 1       -0.63   0.78    0         1.00  rockhead.shp  
+	StaticShape         44      1174.58 1978.92 1       -0.50   0.86    0         1.00  rockhead.shp  
+	StaticShape         45      1147.62 2077.29 1       -0.49   0.87    0         1.00  rockhead.shp  
+	Tree                46      1500.00 1500.00 1       1.00    0.00    0       300.00  1.00    1.00    1.00    6       69420   -939466241  -256        0       
+	StaticShape         21      1277.59 1610.65 1       1.00    0.00    0         1.00  temple2.shp  
+	StaticShape         47      1377.21 1654.26 1       1.00    0.00    0         1.00  temple2.shp  
+	StaticShape         48      1492.85 1681.71 1       1.00    0.00    0         1.00  temple2.shp  
+	StaticShape         49      1611.34 1654.35 1       1.00    0.00    0         1.00  temple2.shp  
+	StaticShape         50      1731.48 1608.44 1       1.00    0.00    0         1.00  temple2.shp  
+	StaticShape         51      1732.75 1376.35 1       1.00    0.00    0         1.00  temple2.shp  
+	StaticShape         52      1622.13 1333.52 1       1.00    0.00    0         1.00  temple2.shp  
+	StaticShape         53      1500.02 1313.14 1       1.00    0.00    0         1.00  temple2.shp  
+	StaticShape         54      1384.66 1339.53 1       1.00    0.00    0         1.00  temple2.shp  
+	StaticShape         55      1270.03 1375.18 1       1.00    0.00    0         1.00  temple2.shp  
+	SpawnLink           56      1270.03 1375.18 1       1.00    0.00    0       70    
+	SpawnLink           57      1384.66 1339.53 1       1.00    0.00    0       16    
+	SpawnLink           58      1500.02 1313.14 1       1.00    0.00    0       84    86    
+	SpawnLink           59      1622.13 1333.52 1       1.00    0.00    0       19    
+	SpawnLink           60      1732.75 1376.35 1       1.00    0.00    0       66    
+	SpawnLink           61      1277.59 1610.65 1       1.00    0.00    0       72    
+	SpawnLink           62      1377.21 1654.26 1       1.00    0.00    0       17    
+	SpawnLink           63      1492.85 1681.71 1       1.00    0.00    0       74    75    
+	SpawnLink           64      1611.34 1654.35 1       1.00    0.00    0       18    
+	SpawnLink           65      1731.48 1608.44 1       1.00    0.00    0       68    
+	SpawnLink           66      1968.19 1250.20 1       1.00    0.00    0       67    
+	SpawnLink           67      1969.72 996.63  1       1.00    0.00    0       2     3     
+	SpawnLink           68      1977.94 1761.30 1       1.00    0.00    0       69    
+	SpawnLink           69      2026.16 2023.93 1       1.00    0.00    0       1     0     
+	SpawnLink           70      1053.18 1234.88 1       1.00    0.00    0       71    
+	SpawnLink           71      1045.90 932.41  1       1.00    0.00    0       7     6     
+	SpawnLink           72      1049.55 1771.08 1       1.00    0.00    0       73    
+	SpawnLink           73      1054.25 2022.75 1       1.00    0.00    0       4     5     
+	SpawnLink           74      1255.16 2038.37 1       1.00    0.00    0       78    
+	SpawnLink           75      1746.22 2027.35 1       1.00    0.00    0       77    
+	SpawnLink           77      1242.42 2428.12 1       1.00    0.00    0       76    
+	SpawnLink           78      1760.98 2428.63 1       1.00    0.00    0       79    
+	SpawnLink           76      1241.41 2929.18 1       1.00    0.00    0       14    82    
+	SpawnLink           79      1768.05 2934.45 1       1.00    0.00    0       15    80    
+	SpawnLink           80      2168.01 2937.97 1       1.00    0.00    0       81    
+	SpawnLink           81      2521.31 2941.58 1       1.00    0.00    0       13    
+	SpawnLink           82      909.71  2926.88 1       1.00    0.00    0       83    
+	SpawnLink           83      549.57  2949.29 1       1.00    0.00    0       12    
+	SpawnLink           84      1242.17 927.49  1       1.00    0.00    0       87    
+	SpawnLink           85      1229.93 545.95  1       1.00    0.00    0       89    
+	SpawnLink           86      1755.23 928.10  1       1.00    0.00    0       85    
+	SpawnLink           87      1742.99 580.53  1       1.00    0.00    0       88    
+	SpawnLink           88      1729.88 81.55   1       1.00    0.00    0       9     91    
+	SpawnLink           89      1228.62 61.35   1       1.00    0.00    0       11    92    
+	SpawnLink           90      2532.41 52.77   1       1.00    0.00    0       10    
+	SpawnLink           91      2145.65 61.89   1       1.00    0.00    0       90    
+	SpawnLink           92      874.41  47.66   1       1.00    0.00    0       93    
+	SpawnLink           93      522.18  50.48   1       1.00    0.00    0       8     
+	AITarget            101     2741.62 2098.99 1       1.00    0.00    0       
+	AITarget            102     2715.73 895.11  1       1.00    0.00    0       
+	AITarget            103     336.67  2097.30 1       1.00    0.00    0       
+	AITarget            104     314.28  906.63  1       1.00    0.00    0       
+	AITarget            105     1322.20 1494.85 1       1.00    0.00    0       
+	AITarget            106     1665.20 1491.61 1       1.00    0.00    0       
+	AITarget            107     2178.38 2074.66 1       1.00    0.00    0       
+	AITarget            108     2127.14 1516.76 1       1.00    0.00    0       
+	AITarget            109     2144.84 891.50  1       1.00    0.00    0       
+	AITarget            110     2767.43 1502.84 1       1.00    0.00    0       
+	AITarget            111     285.48  1487.45 1       1.00    0.00    0       
+	AITarget            112     925.62  1491.41 1       1.00    0.00    0       
+	AITarget            113     897.22  2076.29 1       1.00    0.00    0       
+	AITarget            114     894.30  882.85  1       1.00    0.00    0       
+	AITarget            115     2665.32 2726.11 1       1.00    0.00    0       
+	AITarget            116     1496.29 2833.69 1       1.00    0.00    0       
+	AITarget            117     410.56  2688.97 1       1.00    0.00    0       
+	AITarget            118     2661.99 311.83  1       1.00    0.00    0       
+	AITarget            119     1472.01 178.13  1       1.00    0.00    0       
+	AITarget            120     386.76  286.29  1       1.00    0.00    0       
+	AITarget            121     737.68  88.06   1       1.00    0.00    0       
+	AITarget            122     739.51  283.10  1       1.00    0.00    0       
+	AITarget            123     734.38  469.64  1       1.00    0.00    0       
+	AITarget            124     1184.94 492.69  1       1.00    0.00    0       
+	AITarget            125     1203.49 297.80  1       1.00    0.00    0       
+	AITarget            126     1186.39 131.08  1       1.00    0.00    0       
+	AITarget            127     1745.91 126.33  1       1.00    0.00    0       
+	AITarget            128     1749.75 524.65  1       1.00    0.00    0       
+	AITarget            129     1740.82 306.42  1       1.00    0.00    0       
+	AITarget            130     2277.80 525.51  1       1.00    0.00    0       
+	AITarget            131     2282.10 135.54  1       1.00    0.00    0       
+	AITarget            132     2283.21 317.25  1       1.00    0.00    0       
+	AITarget            133     1494.38 555.90  1       1.00    0.00    0       
+	AITarget            134     1302.51 794.54  1       1.00    0.00    0       
+	AITarget            135     1700.87 794.65  1       1.00    0.00    0       
+	AITarget            136     1364.10 1067.43 1       1.00    0.00    0       
+	AITarget            137     1629.58 1071.92 1       1.00    0.00    0       
+	AITarget            138     1678.00 1351.36 1       1.00    0.00    0       
+	AITarget            139     1559.44 1320.59 1       1.00    0.00    0       
+	AITarget            140     1442.93 1322.26 1       1.00    0.00    0       
+	AITarget            141     1328.50 1362.53 1       1.00    0.00    0       
+	AITarget            142     1500.53 1403.46 1       1.00    0.00    0       
+	AITarget            143     1498.91 1581.80 1       1.00    0.00    0       
+	AITarget            144     1325.12 1639.52 1       1.00    0.00    0       
+	AITarget            145     1434.80 1668.34 1       1.00    0.00    0       
+	AITarget            146     1554.14 1670.26 1       1.00    0.00    0       
+	AITarget            147     1673.88 1636.93 1       1.00    0.00    0       
+	AITarget            148     2313.54 2931.95 1       1.00    0.00    0       
+	AITarget            149     2317.62 2472.03 1       1.00    0.00    0       
+	AITarget            150     2319.04 2705.41 1       1.00    0.00    0       
+	AITarget            151     1825.24 2904.07 1       1.00    0.00    0       
+	AITarget            152     1825.87 2467.36 1       1.00    0.00    0       
+	AITarget            153     1835.20 2692.37 1       1.00    0.00    0       
+	AITarget            154     1201.70 2458.16 1       1.00    0.00    0       
+	AITarget            155     1191.86 2896.42 1       1.00    0.00    0       
+	AITarget            156     1193.18 2684.71 1       1.00    0.00    0       
+	AITarget            157     805.09  2689.52 1       1.00    0.00    0       
+	AITarget            158     807.46  2454.49 1       1.00    0.00    0       
+	AITarget            159     810.75  2914.45 1       1.00    0.00    0       
+	AITarget            160     1495.24 2423.66 1       1.00    0.00    0       
+	AITarget            161     1279.68 2199.08 1       1.00    0.00    0       
+	AITarget            162     1658.23 2212.77 1       1.00    0.00    0       
+	AITarget            163     1631.30 1918.33 1       1.00    0.00    0       
+	AITarget            164     1354.67 1924.67 1       1.00    0.00    0       
+Buildings_EndDefinition
+
