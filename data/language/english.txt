@@ -2932,6 +2932,12 @@ mp_domination_blastedeye_4P_name                   Blasted Eye
 mp_domination_blastedeye_4P_description            A 4 player domination. Aaaand another map where I disabled armour. Never liked that powerup because it's kind of "cheesy" for me. No armour, slowdown, speedup. Made by Zyix (a.k.a. Cody)
 mp_domination_gildergoldvalley_4P_name             Gildergold Valley
 mp_domination_gildergoldvalley_4P_description      A 4 player domination. My attempt at making something creative, along with jump-pads of course. No armour, dark forest (non-auto), rocketwinians, slowdown, speedup. Made by Zyix (a.k.a. Cody)
+mp_domination_heavenly_garden_3P_name              Heavenly Garden
+mp_domination_heavenly_garden_3P_description       A 3 player domination with jump-pads. No armour, slowdown, speedup. Made by Zyix (a.k.a. Cody)
+mp_domination_trinitarian_lands_3P_name            Trinitarian Lands
+mp_domination_trinitarian_lands_3P_description     A 3 player domination with jump-pads. No armour, slowdown, speedup. Made by Zyix (a.k.a. Cody)
+mp_domination_the_forgone_isolation_3P_name        The Forgone Isolation
+mp_domination_the_forgone_isolation_3P_description A 3 player domination with Evilinians at the start. No armour, slowdown, speedup. Made by Zyix (a.k.a. Cody)
 
 mp_tankbattle_2P_name               2P TankBattle Arena
 mp_tankbattle_2P_description        Tank Duel! FIGHT!
